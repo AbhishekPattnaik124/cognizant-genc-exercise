@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Jtx2GSGX1M=",
+  "success": true,
+  "projectFilePath": "D:\\cognizant\\Entity_Framework_Core_Exercises\\RetailInventory\\RetailInventory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\efcore.bulkextensions\\10.0.1\\efcore.bulkextensions.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
